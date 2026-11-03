@@ -1,2 +1,3 @@
 # Dots-and-Boxes
-Dots and Boxes console game! This may be updated at a later point.
+A dots and boxes game played through cmd.
+Student project that I worked on when taking C++ classes.
